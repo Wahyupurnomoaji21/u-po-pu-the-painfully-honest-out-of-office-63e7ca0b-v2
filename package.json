@@ -1,0 +1,1 @@
+{"description":"The Painfully Honest Out-of-Office (v2) — a one-sentence out-of-office auto-reply that admits it is the most honest thing the sender has written all year.","engines":{"node":">=22.18"},"license":"MIT","main":"main.ts","name":"u-po-pu-the-painfully-honest-out-of-office-63e7ca0b-v2","private":true,"scripts":{"start":"node main.ts"},"type":"module","version":"1.0.0"}
